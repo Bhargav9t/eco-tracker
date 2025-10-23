@@ -1,2 +1,1 @@
-# eco-tracker
-A gamified carbon footprint tracker that helps users monitor, visualize, and reduce their daily environmental impact with personalized suggestions.
+EcoTracker is an interactive app designed to help users understand and reduce their carbon footprint. The app tracks daily activities such as travel, energy use, and diet, and provides actionable recommendations for a more sustainable lifestyle. Featuring a Duolingo-inspired gamified interface, users can earn points, track progress, and achieve milestones, making sustainability both fun and engaging.
