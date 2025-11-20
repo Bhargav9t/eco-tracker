@@ -36,7 +36,7 @@ Instead of overwhelming data, users get a simple, playful, and habit-forming exp
 
 Clone the repository:
 
-git clone https://github.com/your-username/EcoTracker.git
+gh repo clone Bhargav9t/eco-tracker
 
 
 Navigate into the folder:
